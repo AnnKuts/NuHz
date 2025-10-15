@@ -1,12 +1,22 @@
 # Our team:
 ## Anna 
-dev
+Teamlead | FullStack developer
+
+Honest, purposeful, perseverant, fast learning, sociable, highly motivated, reliable
 ## Ivanna
-front/back
+Frontend Developer
+
+Сommunicative, teamworking, problem-solver, adaptive, loves critical thinking, takes leadership, and love chebupeli
 ## Vlad
-lalala
+Backend Developer
+
+Creative, fast learner, team player, adaptable under pressure, passionate about building smart solutions
 ## Maria
-tralala
+Fullstack developer
+
+Responsible
+Sociable
+Analytical thinking
 
 # React + Vite
 
