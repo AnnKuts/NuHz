@@ -8,7 +8,7 @@ const TeamSection = () => {
   const teamMembers = [
     {avatar: avatarAnna, name: "Anna", role: "Teamlead | FullStack developer", bio: "Honest, purposeful, perseverant, fast learning, sociable, highly motivated, reliable"},
     {avatar: avatarMariia, name: "Mariia", role: "Fullstack developer", bio: "Responsible<br />Sociable<br />Analytical thinking"},
-    {avatar: avatarIvanna, name: "Ivanna", role: "Frontend Developer", bio: "Сommunicative, teamworking, problem-solver, adaptive, loves critical thinking, takes leadership, and love chebupeli"},
+    {avatar: avatarIvanna, name: "Ivanna", role: "Backend Developer", bio: "Сommunicative, teamworking, problem-solver, adaptive, loves critical thinking, takes leadership, and love chebupeli"},
     {avatar: avatarVladyslav, name: "Vladyslav", role: "Backend Developer", bio: "Creative, fast learner, team player, adaptable under pressure, passionate about building smart solutions"},
   ];
 
