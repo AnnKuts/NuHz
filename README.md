@@ -1,4 +1,8 @@
-# **NuHz team**
+<h1 align="left">
+  <img src="./docs/assets/img-L7anngR-.png" alt="Vite Logo" width="32" height="32" style="vertical-align: middle; margin-right: 8px;" />
+  NuHz team
+</h1>
+
 Hi! This portfolio was created for [Hackathon IT Fest 2025](https://dou.ua/calendar/55020/) organized by American University Kyiv. We're a diverse group of developers, designers, and problem solvers who met through hackathons and university projects!
 
 Each of us brings various skills — from front-end design to backend architecture. We would really like to turn our ideas in reality and make something great! 
