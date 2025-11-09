@@ -16,7 +16,7 @@ Communicative, team-working, problem-solver, adaptive, loves critical thinking, 
 **Backend Developer**  
 Creative, fast learner, team player, adaptable under pressure, passionate about building smart solutions.
 
-### **[Maria](https://github.com/impe11e)**
+### **[Mariia](https://github.com/impe11e)**
 **Full-Stack Developer**  
 Responsible, sociable, analytical thinking.
 
